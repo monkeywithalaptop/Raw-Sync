@@ -23,11 +23,24 @@ git clone https://github.com/MonkeyWithaLaptop/RawHeist.git
 No dependencies needed! Just Python 3.6+.
 ## Why this Exists
 
-This project began on a dreary evening, tired from the day I sat down to edit some more images. As I imported more files my eyes went to my latest folder - 54 .af files. Some of these shots were genuine bangers I'd want to keep for contests. Then I checke the RAW files in the folder - 0.
-I groaned in despair as it dawned on me, combing through 1000s of different images in my sd card finding and matching all of the raw counterparts to my edited files would be a pain. 30 minutes minimum.
+This project began on a dreary evening, tired from the day I sat down to edit some more images.
+
+As I imported more files my eyes went to my latest folder - 54 .af files. 
+Some of these shots were genuine bangers I'd want to keep for contests. 
+Then I checke the RAW files in the folder - 0.
+
+I groaned in despair as it dawned on me, combing through 1000s of different images in my sd card finding and matching all of the raw counterparts to my edited files would be a pain. 
+
+30 minutes minimum.
+
 'Wish there were a script for this' I said to myself.
+
 'Maybe there is one!' My inner voice chimed, but my searches bore no fruit,
+
 'Someone should really make one' I groaned once more
+
 'You're a CSE student, why don't you do it?' 
+
 And thus my inner voice landed on something solid, a project worth making, not for others, but for my own lazy ass.
+
 So, Ladies and Gentelemen, remember this script was made in 6 hours because i wanted to avoid 30 minutes of hard labour! And if I'm completely honest, I don't know how the math checks out.

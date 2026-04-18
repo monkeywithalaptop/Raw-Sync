@@ -18,7 +18,7 @@ You can run it normally as well, the code will prompt you and guide you through 
 ## What is this?
 Raw Sync is basically a simple to use CLI (Command Line Interface) which I created to import corresponding RAW files after loooong editing sessions. For example when you have more than 30 edited images on your laptop, manually finding the corresponding RAW files can be an arduous and time taking process. This tool automates it by cross-checking names of images without extensions and copying the raw files to your laptop.
 ## Installation
-git clone https://github.com/MonkeyWithaLaptop/RawHeist.git
+git clone https://github.com/MonkeyWithaLaptop/Raw-Sync.git
 ## Requirements
 No dependencies needed! Just Python 3.6+.
 ## Why this Exists

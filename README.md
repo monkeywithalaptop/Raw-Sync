@@ -1,5 +1,5 @@
 # RAW SYNC
-### Hey there, you're here so I'm guessing you're curious about the code (or the abundance of bananas 🍌)!
+### Hey there, you're here so I'm guessing you're curious about the code!
 This is my first public python project, so here goes
 ## How to Use this
 You can run it normally as well, the code will prompt you and guide you through the process :)
